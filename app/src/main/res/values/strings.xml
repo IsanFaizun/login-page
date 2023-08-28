@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Login page</string>
+    <string name="login_btn">Login</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
 </resources>
